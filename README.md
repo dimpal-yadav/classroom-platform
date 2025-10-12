@@ -12,7 +12,7 @@ SikshaLink is a next-generation learning management system that connects student
 [![GSSoC 2025](https://img.shields.io/badge/GSSoC-2025-orange)](https://gssoc.girlscript.tech/)
 
 
-## 🌟GSSoc 
+## 🌟GSSoc 2025
 ![GSSoC Logo](https://github.com/dimpal-yadav/classroom-platform/blob/sdd-banner/GirlScript-Summer-of-Code.png)
 🌟 **Exciting News...**
 
@@ -28,6 +28,23 @@ SikshaLink is a next-generation learning management system that connects student
 - 📜 Receive certificates and swag!
 
 🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this classroom-platform project family! Let's build, learn, and grow together — one commit at a time. 🔥
+
+
+## 🎃 Hacktoberfest 2025
+
+![Hacktoberfest Logo](https://github.com/dimpal-yadav/classroom-platform/blob/sdd-banner/haccktobefest.png)
+
+🎉 **Hacktoberfest is here!**  
+We’re thrilled to announce that this project is also participating in **Hacktoberfest 2025** — a month-long celebration of open-source software organized by DigitalOcean, GitHub, and other amazing communities!
+
+💻 Whether you're a beginner or an experienced developer, this is your chance to:
+- 🌱 Learn and grow through real-world contributions
+- 🤝 Collaborate with developers across the globe
+- 🧠 Sharpen your coding and problem-solving skills
+- 🏅 Earn exclusive **Hacktoberfest swag and certificates!**
+
+🔥 **Contribute today** and become a part of this global open-source movement. Every meaningful PR counts!  
+Let’s code, learn, and celebrate open source together — one pull request at a time! 💪  
 
 
 ## 🔍 Features
